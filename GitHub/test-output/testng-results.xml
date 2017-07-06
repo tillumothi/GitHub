@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="4243" started-at="2017-05-04T06:22:36Z" finished-at="2017-05-04T06:22:40Z">
+  <suite name="Default suite" duration-ms="7247" started-at="2017-07-06T17:30:59Z" finished-at="2017-07-06T17:31:07Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="4243" started-at="2017-05-04T06:22:36Z" finished-at="2017-05-04T06:22:40Z">
+    <test name="Default test" duration-ms="7247" started-at="2017-07-06T17:30:59Z" finished-at="2017-07-06T17:31:07Z">
       <class name="Testnggit.GitTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Testnggit.GitTest@20b2475a]" name="beforeTest" is-config="true" duration-ms="8" started-at="2017-05-04T07:22:36Z" finished-at="2017-05-04T07:22:36Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Testnggit.GitTest@210ab13f]" name="beforeTest" is-config="true" duration-ms="7" started-at="2017-07-06T18:30:59Z" finished-at="2017-07-06T18:30:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f1()[pri:0, instance:Testnggit.GitTest@20b2475a]" name="f1" duration-ms="2632" started-at="2017-05-04T07:22:36Z" finished-at="2017-05-04T07:22:39Z">
+        <test-method status="PASS" signature="f1()[pri:0, instance:Testnggit.GitTest@210ab13f]" name="f1" duration-ms="4894" started-at="2017-07-06T18:30:59Z" finished-at="2017-07-06T18:31:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f1 -->
-        <test-method status="PASS" signature="f4()[pri:0, instance:Testnggit.GitTest@20b2475a]" name="f4" duration-ms="26" started-at="2017-05-04T07:22:39Z" finished-at="2017-05-04T07:22:39Z">
+        <test-method status="PASS" signature="f4()[pri:0, instance:Testnggit.GitTest@210ab13f]" name="f4" duration-ms="49" started-at="2017-07-06T18:31:04Z" finished-at="2017-07-06T18:31:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f4 -->
-        <test-method status="PASS" signature="f3()[pri:0, instance:Testnggit.GitTest@20b2475a]" name="f3" is-config="true" duration-ms="1550" started-at="2017-05-04T07:22:39Z" finished-at="2017-05-04T07:22:40Z">
+        <test-method status="PASS" signature="f3()[pri:0, instance:Testnggit.GitTest@210ab13f]" name="f3" is-config="true" duration-ms="2262" started-at="2017-07-06T18:31:04Z" finished-at="2017-07-06T18:31:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f3 -->
       </class> <!-- Testnggit.GitTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
