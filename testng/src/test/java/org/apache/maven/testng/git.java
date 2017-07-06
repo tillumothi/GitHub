@@ -28,7 +28,7 @@ public class git {
 
 		wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id='_fZl']")));
 
-		System.out.println("testing git");
+		System.out.println("testing git jjjj");
 	}
 
 	@Test
